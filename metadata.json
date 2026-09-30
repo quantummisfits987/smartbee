@@ -1,0 +1,6 @@
+{
+  "name": "SmartBee – Smart Beekeeping & Honey Traceability",
+  "description": "Smart beekeeping dashboard with simulated IoT hive monitoring, Open-Meteo weather integration, local Ollama AI health advisory, and SHA-256 blockchain-style honey batch traceability with QR verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
